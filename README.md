@@ -11,7 +11,7 @@
 # Dataset
 
   
-|      Dataset      | Video Number | train | validation | test | instances |class |
+|      Dataset      | Video Number | train | validation | test | instances |classes |
 | :---------------: | :----------: | :---: | :--------: | :--: | :--------:|:---: |
 |      THUMOS14     |    413       |   -   |    200     | 213  |   6,363   | 20   |
 | ActivityNet-v1.3  |     19994    | 10,024|    4,926   | 5,044|   30791   | 200  |
