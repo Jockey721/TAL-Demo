@@ -9,8 +9,9 @@
 
 
 # Dataset
-<div align=left>
-|      Dataset      | Video Number | train | validation | test | class |
+
+  
+<div align=left>|      Dataset      | Video Number | train | validation | test | class |
 | :---------------: | :----------: | :---: | :--------: | :--: | :---: |
 |      THUMOS14     |    413       |   -   |    200     | 213  |  20   |
 | ActivityNet-v1.3  |     19994    | 10,024|    4,926   | 5,044|  200  |
