@@ -1,12 +1,14 @@
 # Temporal Action Localization Demo
 
-<div align=center><img src="Thumos14Demo\PoleVault-Demo.gif" style="zoom:200%;" width="480" /> 
-<div align=center>| Detecting the PoleVault action segments on the timeline of video |
-<div align=center><img src="Thumos14Demo\GolfSwing-Demo.gif" style="zoom:200%;" width="480"/> 
-<div align=center>| Detecting the GolfSwing action segments on the timeline of video |
+<div align=center>
+| Detecting the PoleVault action segments on the timeline of video |
+<img src="Thumos14Demo\PoleVault-Demo.gif" style="zoom:200%;" width="480" /> 
+---------------------------------------------------------------------
+| Detecting the GolfSwing action segments on the timeline of video |
+<img src="Thumos14Demo\GolfSwing-Demo.gif" style="zoom:200%;" width="480"/> 
 
 
-
+<div align=left>
 # Dataset
 
 |      Dataset      | Video Number | train | validation | test | class |
