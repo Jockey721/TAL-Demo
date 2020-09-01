@@ -1,8 +1,8 @@
 # Temporal Action Localization Demo
 
-<div align=center><b>Detecting the _PoleVault_ action segments on the timeline of video</b>
+<div align=center><b>Detecting the PoleVault action segments on the timeline of video</b>
 <div align=center><img src="Thumos14Demo\PoleVault-Demo.gif" style="zoom:200%;" width="720" /> 
-<div align=center><b>Detecting the _GolfSwing_ action segments on the timeline of video</b>
+<div align=center><b>Detecting the GolfSwing action segments on the timeline of video</b>
 <div align=center><img src="Thumos14Demo\GolfSwing-Demo.gif" style="zoom:200%;" width="720"/> 
 
 
